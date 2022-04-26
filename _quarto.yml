@@ -18,6 +18,11 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    header-includes: |
+      \usepackage{makeidx}
+      \makeindex
+    include-after: |
+      \printindex
 
 
 
