@@ -1,0 +1,26 @@
+{
+    "id": "C4011411",
+    "path": "~/quarto/dev/quarto-book-with-index/_quarto.yml",
+    "project_path": "_quarto.yml",
+    "type": "yaml",
+    "hash": "1650729026",
+    "contents": "",
+    "dirty": false,
+    "created": 1650971800118.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,4",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650971961,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650971961,
+    "read_only": false,
+    "read_only_alternatives": []
+}

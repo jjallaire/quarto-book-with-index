@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "quarto-book-with-index"
+  author: "Jane Doe"
+  date: "4/26/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    header-includes: |
+      \usepackage{makeidx}
+      \makeindex
+    include-after: |
+      \printindex
+
+
+
